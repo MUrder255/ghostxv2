@@ -1,7 +1,7 @@
 import discord
 import os
 
-TOKEN = "YOUR_DISCORD_BOT_TOKEN"
+TOKEN = "MTM2MTg2NTQ1NzI1ODMzMjl4MQ.GfhbDg.vtbdPH1uQxRBSji3Kmf1eMwENF74mCAzwPTt4"
 client = discord.Client(intents=discord.Intents.all())
 
 @client.event
